@@ -1,0 +1,5 @@
+{
+  "name": "MaVictor Loja",
+  "description": "Sistema de E-commerce MaVictor com redirecionamento de pedidos via WhatsApp e painel administrativo.",
+  "requestFramePermissions": []
+}
